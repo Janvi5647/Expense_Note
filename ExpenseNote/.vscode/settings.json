@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Admin\\Documents\\mysql-connector-j-9.0.0.jar",
+        "d:\\TicketBookingSystem\\mysql-connector-j-9.0.0.jar",
+        "c:\\JFreeChart\\jfreechart-1.0.19\\jfreechart-1.0.19-demo.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
